@@ -2,7 +2,7 @@
 # Don't edit by hand!
 # 
 
-#'  testMSE OM
+#'  testMSE MSE
 #'
 #'  An object of class MSE
 #'
@@ -30,81 +30,81 @@
 "Yellowfin_Tuna_IO"
 
 
-#'  San_Francisco_Bay_herring_HerringSFB_OM OM
+#'  HerringSFB_OM OM
 #'
 #'  An object of class OM
 #'
-"San_Francisco_Bay_herring_HerringSFB_OM"
+"HerringSFB_OM"
 
 
-#'  Darnley_Bay_Char_ArcticCharr_OM OM
+#'  ArcticCharr_OM OM
 #'
 #'  An object of class OM
 #'
-"Darnley_Bay_Char_ArcticCharr_OM"
+"ArcticCharr_OM"
 
 
-#'  Canary_Rockfish_BC_CanaryRockfishBC_OM OM
+#'  CanaryRockfishBC_OM OM
 #'
 #'  An object of class OM
 #'
-"Canary_Rockfish_BC_CanaryRockfishBC_OM"
+"CanaryRockfishBC_OM"
 
 
-#'  AJ_AlmacoJack_OM OM
+#'  AlmacoJack_OM OM
 #'
 #'  An object of class OM
 #'
-"AJ_AlmacoJack_OM"
+"AlmacoJack_OM"
 
 
-#'  LS_LaneSnapper_OM OM
+#'  LaneSnapper_OM OM
 #'
 #'  An object of class OM
 #'
-"LS_LaneSnapper_OM"
+"LaneSnapper_OM"
 
 
-#'  LAJ_LesserAmberjack_OM OM
+#'  LesserAmberjack_OM OM
 #'
 #'  An object of class OM
 #'
-"LAJ_LesserAmberjack_OM"
+"LesserAmberjack_OM"
 
 
-#'  RD_RedDrum_OM OM
+#'  RedDrum_OM OM
 #'
 #'  An object of class OM
 #'
-"RD_RedDrum_OM"
+"RedDrum_OM"
 
 
-#'  SG_SnowyGrouper_OM OM
+#'  SnowyGrouper_OM OM
 #'
 #'  An object of class OM
 #'
-"SG_SnowyGrouper_OM"
+"SnowyGrouper_OM"
 
 
-#'  SH_SpeckledHind_OM OM
+#'  SpeckledHind_OM OM
 #'
 #'  An object of class OM
 #'
-"SH_SpeckledHind_OM"
+"SpeckledHind_OM"
 
 
-#'  WM_Wenchman_OM OM
+#'  Wenchman_OM OM
 #'
 #'  An object of class OM
 #'
-"WM_Wenchman_OM"
+"Wenchman_OM"
 
 
-#'  YM_YellowmouthGrouper_OM OM
+#'  YellowmouthGrouper_OM OM
 #'
 #'  An object of class OM
 #'
-"YM_YellowmouthGrouper_OM"
+"YellowmouthGrouper_OM"
 
 
 #'  Swordfish_OM OM
