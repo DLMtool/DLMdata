@@ -30,81 +30,81 @@
 "Yellowfin_Tuna_IO"
 
 
-#'  HerringSFB_OM OM
+#'  San_Francisco_Bay_herring_HerringSFB_OM OM
 #'
 #'  An object of class OM
 #'
-"HerringSFB_OM"
+"San_Francisco_Bay_herring_HerringSFB_OM"
 
 
-#'  ArcticCharr_OM OM
+#'  Darnley_Bay_Char_ArcticCharr_OM OM
 #'
 #'  An object of class OM
 #'
-"ArcticCharr_OM"
+"Darnley_Bay_Char_ArcticCharr_OM"
 
 
-#'  CanaryRockfishBC_OM OM
+#'  Canary_Rockfish_BC_CanaryRockfishBC_OM OM
 #'
 #'  An object of class OM
 #'
-"CanaryRockfishBC_OM"
+"Canary_Rockfish_BC_CanaryRockfishBC_OM"
 
 
-#'  AlmacoJack_OM OM
+#'  AJ_AlmacoJack_OM OM
 #'
 #'  An object of class OM
 #'
-"AlmacoJack_OM"
+"AJ_AlmacoJack_OM"
 
 
-#'  LaneSnapper_OM OM
+#'  LS_LaneSnapper_OM OM
 #'
 #'  An object of class OM
 #'
-"LaneSnapper_OM"
+"LS_LaneSnapper_OM"
 
 
-#'  LesserAmberjack_OM OM
+#'  LAJ_LesserAmberjack_OM OM
 #'
 #'  An object of class OM
 #'
-"LesserAmberjack_OM"
+"LAJ_LesserAmberjack_OM"
 
 
-#'  RedDrum_OM OM
+#'  RD_RedDrum_OM OM
 #'
 #'  An object of class OM
 #'
-"RedDrum_OM"
+"RD_RedDrum_OM"
 
 
-#'  SnowyGrouper_OM OM
+#'  SG_SnowyGrouper_OM OM
 #'
 #'  An object of class OM
 #'
-"SnowyGrouper_OM"
+"SG_SnowyGrouper_OM"
 
 
-#'  SpeckledHind_OM OM
+#'  SH_SpeckledHind_OM OM
 #'
 #'  An object of class OM
 #'
-"SpeckledHind_OM"
+"SH_SpeckledHind_OM"
 
 
-#'  Wenchman_OM OM
+#'  WM_Wenchman_OM OM
 #'
 #'  An object of class OM
 #'
-"Wenchman_OM"
+"WM_Wenchman_OM"
 
 
-#'  YellowmouthGrouper_OM OM
+#'  YM_YellowmouthGrouper_OM OM
 #'
 #'  An object of class OM
 #'
-"YellowmouthGrouper_OM"
+"YM_YellowmouthGrouper_OM"
 
 
 #'  Swordfish_OM OM
@@ -142,7 +142,19 @@
 #'  Rougheye_Rockfish_BC_SRA OM
 #'
 #'  An object of class OM (built using StochasticSRA)
-#'  DLMtool generated
+#'  Stock assessment for Canary rockfish (Sebastes pinniger) in British Columbia waters. Stanley R. Starr P. Olsen N. 
+Sustainable Harvest Levels of Anadromous Arctic Char
+from the Hornaday River, Northwest Territories
+#' 
+"Rougheye_Rockfish_BC_SRA"
+
+
+#'  Rougheye_Rockfish_BC_SRA OM
+#'
+#'  An object of class OM (built using StochasticSRA)
+#'  Stock assessment for Canary rockfish (Sebastes pinniger) in British Columbia waters. Stanley R. Starr P. Olsen N. 
+Sustainable Harvest Levels of Anadromous Arctic Char
+from the Hornaday River, Northwest Territories
 #' 
 "Rougheye_Rockfish_BC_SRA"
 
