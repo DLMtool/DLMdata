@@ -142,19 +142,6 @@
 #'  Rougheye_Rockfish_BC_SRA OM
 #'
 #'  An object of class OM (built using StochasticSRA)
-#'  Stock assessment for Canary rockfish (Sebastes pinniger) in British Columbia waters. Stanley R. Starr P. Olsen N. 
-Sustainable Harvest Levels of Anadromous Arctic Char
-from the Hornaday River, Northwest Territories
-#' 
-"Rougheye_Rockfish_BC_SRA"
-
-
-#'  Rougheye_Rockfish_BC_SRA OM
-#'
-#'  An object of class OM (built using StochasticSRA)
-#'  Stock assessment for Canary rockfish (Sebastes pinniger) in British Columbia waters. Stanley R. Starr P. Olsen N. 
-Sustainable Harvest Levels of Anadromous Arctic Char
-from the Hornaday River, Northwest Territories
 #' 
 "Rougheye_Rockfish_BC_SRA"
 
